@@ -6,15 +6,15 @@
 /*   By: kmosiane <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/22 11:22:01 by kmosiane          #+#    #+#             */
-/*   Updated: 2020/06/22 13:40:32 by kmosiane         ###   ########.fr       */
+/*   Updated: 2020/06/25 08:53:33 by kmosiane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
+#include <stdio.h>
 
 void ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
-
-
+ 
 
